@@ -1,6 +1,6 @@
 # Market-analysis
 ## Group project for Code 401 - Python
-##### Our live site on heroku: http://stock-watch2-401.herokuapp.com
+##### Our live site on heroku: 
 ### Contributors:
 * David Smith
 * David Banks
